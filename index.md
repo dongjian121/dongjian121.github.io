@@ -86,13 +86,13 @@
 
             .date {
                 text-align: center;
-                color: write;
+                color: yellow;
                 font-size: 30px;
             }
 
             .time {
                 text-align: center;
-                color: wirte;
+                color: yellow;
                 font-size: 30px;
             }
         </style>
