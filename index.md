@@ -87,13 +87,13 @@
             .date {
                 text-align: center;
                 color: write;
-                font-size: 20px;
+                font-size: 30px;
             }
 
             .time {
                 text-align: center;
                 color: wirte;
-                font-size: 20px;
+                font-size: 30px;
             }
         </style>
     </head>
