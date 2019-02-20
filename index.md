@@ -77,8 +77,8 @@
         </script>
         <style type="text/css">
             body {
-                width: 800px;
-                height: 500px;
+                width: 200px;
+                height: 200px;
                 background: #323332;
                 vertical-align: middle;
                 display: table-cell;
@@ -86,14 +86,14 @@
 
             .date {
                 text-align: center;
-                color: blue;
-                font-size: 50px;
+                color: write;
+                font-size: 20px;
             }
 
             .time {
                 text-align: center;
-                color: blue;
-                font-size: 40px;
+                color: wirte;
+                font-size: 20px;
             }
         </style>
     </head>
