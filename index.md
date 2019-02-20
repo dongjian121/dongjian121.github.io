@@ -79,20 +79,20 @@
             body {
                 width: 800px;
                 height: 500px;
-                background: #FCF;
+                background: #323332;
                 vertical-align: middle;
                 display: table-cell;
             }
 
             .date {
                 text-align: center;
-                color: white;
+                color: blue;
                 font-size: 50px;
             }
 
             .time {
                 text-align: center;
-                color: white;
+                color: blue;
                 font-size: 40px;
             }
         </style>
